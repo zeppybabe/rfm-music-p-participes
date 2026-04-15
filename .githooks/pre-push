@@ -1,0 +1,14 @@
+#!/bin/sh
+# pre-push hook — this repository is a read-only showcase.
+# Direct pushes are not accepted. To build on this project,
+# fork the repository and push to your own remote.
+
+echo ""
+echo "-----------------------------------------------------------"
+echo "  randomize.fm — read-only showcase repository"
+echo ""
+echo "  Direct pushes are not accepted."
+echo "  Fork this repository to create your own copy."
+echo "-----------------------------------------------------------"
+echo ""
+exit 1

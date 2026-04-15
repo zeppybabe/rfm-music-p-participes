@@ -1,0 +1,40 @@
+# Dependencies
+node_modules/
+
+# Build output
+build/
+dist/
+.svelte-kit/
+
+# Environment
+.env
+.env.*
+!.env.example
+
+# Database and data
+*.db
+*.db-wal
+*.db-shm
+data/
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.vscode/
+.idea/
+*.swp
+
+# Private instructions
+CLAUDE.md
+.claude/
+
+# Misc
+current_tree.txt
+*.bak
