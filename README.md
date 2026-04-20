@@ -12,7 +12,7 @@ One button. Infinite music. A music discovery app that plays a random YouTube vi
 ## Live Demo
 
 <!-- Add your live URL here -->
-`https://randomize.fm`
+`https://rfm-music.uk`
 
 ---
 
